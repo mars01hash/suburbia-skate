@@ -17,6 +17,8 @@
   <p align="center">
     An immersive 3D skateboard landing page built with Next.js, Three.js, and GSAP
     <br />
+    <a href="https://3d-landing-page-plum.vercel.app"><strong>View Live Site »</strong></a>
+    &nbsp;·&nbsp;
     <a href="https://github.com/mars01hash/suburbia-skate"><strong>Explore the docs »</strong></a>
     <br />
     <br />
@@ -164,6 +166,8 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 ---
 
 ## Contact
+
+Live Site: [https://3d-landing-page-plum.vercel.app](https://3d-landing-page-plum.vercel.app)
 
 Project Link: [https://github.com/mars01hash/suburbia-skate](https://github.com/mars01hash/suburbia-skate)
 
