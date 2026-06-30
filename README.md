@@ -52,7 +52,9 @@
 
 ## Demo
 
-[![Watch the demo](https://img.youtube.com/vi/K0-ajKViBWg/maxresdefault.jpg)](https://youtu.be/K0-ajKViBWg)
+![Suburbia Skateboards Demo](screen/SuburbiaSkateboards.gif)
+
+[![Watch the full demo on YouTube](https://img.youtube.com/vi/K0-ajKViBWg/maxresdefault.jpg)](https://youtu.be/K0-ajKViBWg)
 
 <p align="right"><a href="#top">back to top</a></p>
 
