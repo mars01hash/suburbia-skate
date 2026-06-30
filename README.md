@@ -29,6 +29,7 @@
 <details>
   <summary>Table of Contents</summary>
   <ol>
+    <li><a href="#demo">Demo</a></li>
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
@@ -48,6 +49,12 @@
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
+
+## Demo
+
+[![Watch the demo](https://img.youtube.com/vi/K0-ajKViBWg/maxresdefault.jpg)](https://youtu.be/K0-ajKViBWg)
+
+<p align="right"><a href="#top">back to top</a></p>
 
 ## About The Project
 
